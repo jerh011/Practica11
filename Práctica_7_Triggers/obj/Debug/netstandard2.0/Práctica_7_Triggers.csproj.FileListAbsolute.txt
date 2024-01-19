@@ -1,0 +1,15 @@
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\Práctica_7_Triggers.csproj.AssemblyReference.cache
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\Práctica_7_Triggers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\Práctica_7_Triggers.AssemblyInfoInputs.cache
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\Práctica_7_Triggers.AssemblyInfo.cs
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\Práctica_7_Triggers.csproj.CoreCompileInputs.cache
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\Vistas\Categoria.xaml.g.cs
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\bin\Debug\netstandard2.0\Práctica_7_Triggers.deps.json
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\bin\Debug\netstandard2.0\Práctica_7_Triggers.dll
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\bin\Debug\netstandard2.0\Práctica_7_Triggers.pdb
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\Práctica_7_Triggers.dll
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\refint\Práctica_7_Triggers.dll
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\Práctica_7_Triggers.pdb
+C:\Users\cd22\source\repos\Práctica_7_Triggers\Práctica_7_Triggers\obj\Debug\netstandard2.0\ref\Práctica_7_Triggers.dll
